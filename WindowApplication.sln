@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowApplication", "WindowApplication\WindowApplication.csproj", "{10223A0B-B575-4855-BA94-3C8B1E33B7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxAppForm", "TaxAppForm\TaxAppForm.csproj", "{042E6112-4196-4272-97B5-2446CF499BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10223A0B-B575-4855-BA94-3C8B1E33B7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10223A0B-B575-4855-BA94-3C8B1E33B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10223A0B-B575-4855-BA94-3C8B1E33B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10223A0B-B575-4855-BA94-3C8B1E33B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E6112-4196-4272-97B5-2446CF499BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E6112-4196-4272-97B5-2446CF499BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E6112-4196-4272-97B5-2446CF499BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E6112-4196-4272-97B5-2446CF499BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
